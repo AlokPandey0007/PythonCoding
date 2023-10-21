@@ -1,0 +1,2 @@
+I am added from the code
+I am added from code in append mode
