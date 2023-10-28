@@ -36,3 +36,12 @@ list2=mylist.copy()
 #join list
 list3= list2+mylist
 
+#list Comprehension
+listcomp=[i**2 for i in range(11)]
+print(listcomp)
+
+#list comprehension with example. This will give the list based on condition. gives only even number
+listcondition=[i**2 for i in range(11) if i**2%2==0]
+print(listcondition)
+
+    
